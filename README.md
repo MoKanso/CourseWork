@@ -5,8 +5,9 @@ IN3063
 
 Mathematics and Programming for AI Coursework V1.0
 
+## Executing program
 
-## TASK 1:
+### TASK 1:
 
 - This program can be found in the task folders. It can easily be opened and run.
 - You need to run the first four block of code to receive your first output (Grid and inputs)
@@ -16,11 +17,11 @@ You can run the following 3 blocks for the statistical analysis. Note as I menti
 The Refrences can be seen at the bottom of the page. 
 
 
-## TASK 2:
+### TASK 2:
 
 
 
 
-## TASK 3:
+### TASK 3:
 
 
