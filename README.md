@@ -19,7 +19,8 @@ The Refrences can be seen at the bottom of the page.
 
 ### TASK 2:
 
-
+- This program can be found in the task folders as a jupyter notebook file.
+- The program has multiple blocks of code which contain all the layers asked for: sigmoid, ReLU and softmax activation functions, Dropout or regularization for all layers, test suite for the different layers.
 
 
 ### TASK 3:
@@ -31,11 +32,20 @@ Task 3 part 1 uses the fashionmnist dataset whereas task 3 part 2 uses the Compa
 - To use this program you must pip install torch and torchvision
 - This program can be found in the task folders as a jupyter notebook file. It can easily be opened and run.
 - The program has multiple blocks of code that must be run in order to come to a conlusion. 
-- In the block code 15 you can change the batch sizes used to test the data. 
+- In block code number 15 you can change the batch sizes used to test the data. 
 
 Running all the blocks of code will allow you to come ot the final part of the program. 
 The Refrences can be seen at the bottom of the page. 
 
+#### Task 3 Part 2:
+- To use this program you must pip install imblearn
+- This program can be found in the task folders as a jupyter notebook file. It can easily be opened and run.
+- The program has multiple blocks of code that must be run in order to come to a conlusion. 
+- You should run all the block codes so that you the program can make a prediction on the dataset.
+-  In block code number 23 you can change the number of epochs
+
+Running all the blocks of code will allow you to come ot the final part of the program. 
+The Refrences can be seen at the bottom of the page
 
 ## Datasets used:
 
