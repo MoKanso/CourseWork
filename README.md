@@ -9,7 +9,7 @@ Mathematics and Programming for AI Coursework V1.0
 
 ### TASK 1:
 
-- This program can be found in the task folders. It can easily be opened and run.
+- This program can be found in the task folders as a jupyter notebook file. It can easily be opened and run.
 - You need to run the first four block of code to receive your first output (Grid and inputs)
 - Here the program take your input 3 times, it will ask you simple questions about: the grid size, what Algorithm you would like, and, the game mode choice.
 
