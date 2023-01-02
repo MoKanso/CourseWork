@@ -5,7 +5,7 @@
 
 **Mathematics and Programming for AI Coursework V1.0**
 
-# Executing program
+## Executing program
 
 ### TASK 1:
 
