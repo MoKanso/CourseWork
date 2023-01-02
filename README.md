@@ -1,9 +1,9 @@
 # CourseWork
-## IN3063
+**IN3063**
 
 # Project Title
 
-## Mathematics and Programming for AI Coursework V1.0
+**Mathematics and Programming for AI Coursework V1.0**
 
 # Executing program
 
